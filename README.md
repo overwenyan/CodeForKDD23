@@ -1,6 +1,6 @@
 # CodeForKDD23
 
-Here is the code and hyperparameter settings for the paper *Efficient and Joint Hyperparameter and Architecture Search for Collaborative Filtering*.
+Here is the code and hyperparameter settings for the paper *Efficient and Joint Hyperparameter and Architecture Search for Collaborative Filtering, KDD 2023*.
 
 ## Optimal hyperparameters
 
